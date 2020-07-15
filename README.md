@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is Web based Application to find Weather. It let you find weather using country selected from dropdown list and then select city in that country in dropdown. It will show the teaprature of taht particular area.
 
 It use https://openweathermap.org APIs to get weather details.
----
+-
 Visit this link: https://openweathermap.org/appid
 Signup for account and get your API key.
 Keep this API key for future use in your application.
