@@ -1,4 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Weather Application
 
@@ -16,7 +15,7 @@ Clone the above repository
 
 Paste your API key in formContainer.js file.
 
-### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 
